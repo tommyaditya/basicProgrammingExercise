@@ -6,4 +6,6 @@ Name : Akmal Zaidan Hibatullah
 Student Number : 20230040065
 Study Program : Informatics Engineering
 
+Nama: Tommy Aditya Nim: 20230040066 Study Program: Informatics Engineering
+
 this is second naufal
